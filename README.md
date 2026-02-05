@@ -74,7 +74,6 @@ Final confirmation triggers a success animation and notification.
 ## 👤 Author
 
 **Samar Subhash**  
-CIA 1 – Android Application Development
 
 ---
 
